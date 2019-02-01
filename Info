@@ -1,0 +1,9 @@
+
+https://www.journaldev.com/21127/spring-boot-rest-example
+
+http://localhost:8080/
+http://localhost:8080/person/get
+http://localhost:8080/person/get?name=Vasu
+
+http://localhost:8080/person/update    (POST)
+http://localhost:8080/person/update2   (POST, JSON)
